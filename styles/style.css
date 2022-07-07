@@ -2,3 +2,30 @@
   margin: 0;
   padding: 0;
 }
+
+/* start HERO section*/
+.hero {
+  background-color: red;
+  border: 1px solid black;
+  height: 500px;
+}
+/* end HERO section */
+
+/* start ABOUT ME section */
+section {
+  background-color: blue;
+  border: 1px solid black;
+  height: 500px;
+}
+/* end ABOUT ME section*/
+
+/* start PROJECTS section*/
+/* end PROJECT section*/
+
+/* start CONTACT FORM section */
+footer {
+  background-color: yellow;
+  border: 1px solid black;
+  height: 500px;
+}
+/* end CONTACT FORM section*/
